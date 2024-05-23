@@ -1,70 +1,71 @@
-# Getting Started with Create React App
+# Welcome to Event Listing App 🚀
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Event Listing is basically Progressive Web Application, which it use to list events so that students and participants came to know about this project. Let us make this App fully responsive and adding more features, so that we could use this as SAAS Application.
 
-## Available Scripts
+## 🌟 Contributing
 
-In the project directory, you can run:
+Contributions are always welcome! Follow these steps to get started:
 
-### `npm start`
+1. **🍴 Fork this repository.**
+   - Click the `Fork` button at the top-right corner of this repository page to create a copy of the repository under your GitHub account.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. **📥 Clone your forked copy of the project.**
+   ```sh
+   git clone https://github.com/<your-username>/event-listing
+   ```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. **📂 Change the working directory.**
+   ```sh
+   cd event-listing
+   ```
 
-### `npm test`
+4. **🔗 Add a reference to the original repository.**
+   ```sh
+   git remote add upstream https://github.com/rakshitmehra/event-listing.git
+   ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. **🔍 Check the remotes for this repository.**
+   ```sh
+   git remote -v
+   ```
 
-### `npm run build`
+6. **⬇️ Always take a pull from the upstream repository to your main branch to keep it up-to-date with the main project (updated repository).**
+   ```sh
+   git pull upstream main
+   ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+7. **🌿 Create a new branch.**
+   ```sh
+   git checkout -b <your_branch_name>
+   ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You are all set! 🎉
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+8. **🛠️ Perform your desired changes to the code base.**
 
-### `npm run eject`
+9. **📊 Track your changes.**
+   ```sh
+   git add .
+   ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+10. **💬 Commit your changes with a relevant commit message.** For example, if you added a new feature, you could use:
+    ```sh
+    git commit -m "Add feature X"
+    ```
+    Or if you fixed a bug, you could use:
+    ```sh
+    git commit -m "Fix issue Y"
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+11. **🚀 Push the committed changes in your feature branch to your remote repo.**
+    ```sh
+    git push -u origin <your_branch_name>
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+12. **🔄 To create a pull request,** go to your forked repository on GitHub and click on `Compare & pull request`. Ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+13. **🎉 Voila!** You have made a PR to the event-listing project. Sit back patiently and relax while the project maintainers review your PR.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you for your contributions! Your efforts help improve StartConnect Hub and support our mission to empower startups and investors. Happy hacking! 🚀✨
