@@ -64,7 +64,7 @@ You are all set! 🎉
 
 12. **🔄 To create a pull request,** go to your forked repository on GitHub and click on `Compare & pull request`. Ensure you compare your feature branch to the desired branch of the repo you are supposed to make a PR to.
 
-13. **🎉 Voila!** You have made a PR to the event-listing project. Sit back patiently and relax while the project maintainers review your PR.
+13. **🎉 Yahooo!** You have made a PR to the event-listing project. Sit back patiently and relax while the project maintainers review your PR.
 
 ---
 
