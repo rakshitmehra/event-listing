@@ -1,0 +1,74 @@
+.event-creation-container {
+max-width: 600px;
+margin-top: 40px;
+margin-left: 500px;
+padding: 20px;
+background-color: #ffffff;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+
+.event-creation-title {
+font-size: 24px;
+font-weight: bold;
+margin-bottom: 20px;
+}
+
+.event-creation-form {
+display: flex;
+flex-direction: column;
+}
+
+.event-creation-group {
+margin-bottom: 20px;
+text-align: left;
+}
+
+.event-creation-label {
+font-size: 18px;
+font-weight: bold;
+}
+
+.event-creation-input {
+width: 100%;
+padding: 10px;
+font-size: 16px;
+border: 1px solid #ccc;
+border-radius: 5px;
+}
+
+.event-creation-textarea {
+width: 100%;
+padding: 10px;
+font-size: 16px;
+border: 1px solid #ccc;
+border-radius: 5px;
+resize: vertical;
+}
+
+.event-creation-button {
+padding: 10px 20px;
+background-color: #007bff;
+color: #fff;
+font-size: 18px;
+font-weight: bold;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+transition: background-color 0.3s ease;
+}
+
+.event-creation-button:hover {
+background-color: #0056b3;
+}
+
+.event-creation-message {
+margin-top: 10px;
+font-size: 16px;
+color: #28a745;
+}
+.radio-label {
+    margin-right: 30px; /* Adjust the spacing between radio buttons */
+    cursor: pointer;
+    font-size: 20px; /* Adjust font size */
+}

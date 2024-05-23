@@ -1,0 +1,44 @@
+.navbar {
+    background-color: #000; /* Dark background color */
+    padding: 5px 0;
+    
+}
+
+.navbar-brand {
+font-size: 24px;
+font-weight: bold;
+color: white;
+margin-left: 50px;
+}
+
+.navbar-nav {
+align-items: center;
+}
+
+.nav-item {
+margin-right: 15px;
+}
+
+.nav-link {
+color: white;
+font-size: 16px;
+transition: color 0.3s;
+}
+
+.nav-link:hover {
+color: #ffc107; /* Highlight color on hover */
+}
+
+.navbar-btn {
+background-color: #ffc107; /* Button color */
+color: white;
+border: none;
+border-radius: 4px;
+padding: 8px 15px;
+font-size: 14px;
+transition: background-color 0.3s;
+}
+
+.navbar-btn:hover {
+background-color: #ff9800; /* Highlight color on hover */
+}
