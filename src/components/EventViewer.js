@@ -76,7 +76,7 @@ const EventList = () => {
 
     return (
         <CenteredContent>
-            <StyledHeading>GNDU Event Listing</StyledHeading>
+            <StyledHeading>Event Listing App</StyledHeading>
             <EventViewerContainer>
                 {currentEvents.map((event) => (
                     <EventCardContainer key={event.id}>
