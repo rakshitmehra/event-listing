@@ -8,8 +8,9 @@ import Signup from './components/Signup';
 import EventDetails from './components/EventDetails';
 import EventCreation from './components/EventCreation';
 import EventViewer from './components/EventViewer';
-import SearchBar from './components/SearchBar'; // Import the SearchBar component
+import SearchBar from './components/SearchBar';
 import { auth } from './firebase-config';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
     const [user, setUser] = useState(null);
@@ -40,6 +41,7 @@ function App() {
     };
 
     return (
+        <>
         <Router>
             <div className="App">
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -103,6 +105,8 @@ function App() {
                 </Routes>
             </div>
         </Router>
+        <Analytics />
+        </>
     );
 }
 
