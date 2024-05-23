@@ -68,4 +68,4 @@ You are all set! 🎉
 
 ---
 
-Thank you for your contributions! Your efforts help improve StartConnect Hub and support our mission to empower startups and investors. Happy hacking! 🚀✨
+Thank you for your contributions! Your efforts help improve Event Listing App. Happy hacking! 🚀✨
